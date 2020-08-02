@@ -4,6 +4,8 @@ This project contains code for the online tutorial on youtube.
 
 Subreddits to pull in. 
 
+#### Based on Programming Languages 
+
 ```
 perl
 Python
@@ -23,7 +25,7 @@ C_Programming
 PHP
 ```
 
-Also these
+#### Based on general code
 
 ```
 programminghorror
